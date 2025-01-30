@@ -1,0 +1,162 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim
+vand_gate
+!s110 1738249602
+!i10b 1
+!s100 LnUCC;`]`fcQb1FCn[8__3
+IgkBd;i]e<558X8e0RnbbA2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/AAYUSH TECH/Projects/ModelSimProjects
+w1738248706
+8E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v
+FE:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1738249602.000000
+!s107 E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vMyXOR
+!s110 1738117948
+!i10b 1
+!s100 LX`2`gWl0m]<JVG61?P8l1
+IZlbTcgHK8G6DQR<IQX1iC3
+R0
+R1
+w1738117933
+8E:/AAYUSH TECH/Projects/ModelSimProjects/test1file.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/test1file.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1738117947.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/test1file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/test1file.v|
+!i113 1
+R3
+R4
+n@my@x@o@r
+vmyxorgate
+!s110 1738218054
+!i10b 1
+!s100 5SHK8dh]J_kMLakYTL>511
+IBXM`CoF^bXQ:GW?_P=ZEJ3
+R0
+R1
+w1738218049
+8E:/AAYUSH TECH/Projects/ModelSimProjects/test3.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/test3.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1738218054.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/test3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/test3.v|
+!i113 1
+R3
+R4
+vNAND_gate
+!s110 1738250150
+!i10b 1
+!s100 4e^Y[iL27V?mgUgimAR?U0
+IcUhR?R8RiIQkKj@Fff=Z<2
+R0
+R1
+w1738250144
+8E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1738250150.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v|
+!i113 1
+R3
+R4
+n@n@a@n@d_gate
+vNOR_gate
+!s110 1738250393
+!i10b 1
+!s100 E=@A5Ki=B<6mafm=G>b?R2
+I@NEzEbnEM9F<693HU0`<P2
+R0
+R1
+w1738250386
+8E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1738250393.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v|
+!i113 1
+R3
+R4
+n@n@o@r_gate
+vNOT_gate
+!s110 1738249965
+!i10b 1
+!s100 P64cbM@DQOc1HidJ4Yz[G1
+I9;Y=aHd<j[GXom5;E5b[d2
+R0
+R1
+w1738249958
+8E:/AAYUSH TECH/Projects/ModelSimProjects/NOTGate.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/NOTGate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1738249965.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/NOTGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/NOTGate.v|
+!i113 1
+R3
+R4
+n@n@o@t_gate
+vOR_Gate
+!s110 1738249703
+!i10b 1
+!s100 af^0EW[Z`m8@1mfzS=KU71
+IQWLhSKU2@d5^oSTARo;oJ1
+R0
+R1
+w1738249593
+8E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1738249703.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v|
+!i113 1
+R3
+R4
+n@o@r_@gate

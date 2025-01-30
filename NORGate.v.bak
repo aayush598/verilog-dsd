@@ -1,0 +1,8 @@
+module NOR_gate(
+	input A,
+	input B,
+	Output Y);
+	
+	assign Y = ~(A|B);
+
+endmodule

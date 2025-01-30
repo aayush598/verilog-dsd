@@ -1,0 +1,5 @@
+module MyXOR(a,b,c);
+input a , b ,c ;
+output f;
+assign f = a^(b^c);
+endmodule

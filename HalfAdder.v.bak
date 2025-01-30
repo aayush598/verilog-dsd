@@ -1,0 +1,26 @@
+module HA (
+	input reg A1,
+	input reg B1,
+	output wire S,
+	output reg C);
+	
+	assign C = A1 & B1;
+	
+	XOR_gate uut (
+	.A(A1),
+	.B(B1),
+	.Y(S)
+	);
+
+	initial begin
+		$monitor("A1 = %b, B1 = %b, Y = %b", A1,B1,Y);
+			A1 = 0; B1 = 0; #10;
+			A1 = 0; B1 = 1; #10;
+			A1 = 1; B1 = 0; #10;
+			A1 = 1; B1 = 1; #10;
+		$finish;
+	
+end
+	
+
+endmodule

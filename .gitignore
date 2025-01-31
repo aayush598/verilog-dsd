@@ -1,11 +1,11 @@
 *.mti
 *.mpf
 *.v.vak
-*.v.bak
+*.bak
 *.vlf
 *.wlf
-.cr.mti
-.mpf
+*mti
+*.mpf
 test1.*
 test2.*
 test3.*

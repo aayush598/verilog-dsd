@@ -1,5 +1,12 @@
 *.mti
 *.mpf
 *.v.vak
-*.v.vak
+*.v.bak
 *.vlf
+*.wlf
+.cr.mti
+.mpf
+test1.*
+test2.*
+test3.*
+DigitalSystem.*

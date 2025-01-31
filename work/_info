@@ -9,48 +9,69 @@ z2
 cModel Technology
 dD:/Modelsim
 vand_gate
-Z0 !s110 1738252552
+Z0 !s110 1738307560
 !i10b 1
 !s100 LnUCC;`]`fcQb1FCn[8__3
-IgkBd;i]e<558X8e0RnbbA2
+Ib2ZXOg=TSWaIKbMYcJ`7F0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dE:/AAYUSH TECH/Projects/ModelSimProjects
 w1738248706
-8E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v
-FE:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v
+8E:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v
 L0 1
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1738252552.000000
-!s107 E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v|
+Z4 !s108 1738307560.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
 vHA
-!s110 1738253248
+!s110 1738307529
 !i10b 1
-!s100 G6<zkGc1zaF:g0ePhgmZd1
-ImIA=1^<z@g`M`?OIYE6UU3
+!s100 2h`N0cmUdEh7DTC1EF1iF0
+Ihk9`d>gKim<ILeoHH3Qo90
 R1
 R2
-w1738253233
-8E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v
-FE:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v
+w1738307495
+Z7 8E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v
+Z8 FE:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v
 L0 1
 R3
 r1
 !s85 0
 31
-!s108 1738253248.000000
+!s108 1738307529.000000
 !s107 E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
 !i113 1
 R5
 R6
 n@h@a
+vhalf_adder
+!s110 1738308975
+!i10b 1
+!s100 MSnNlCz[`j90KAUk9TU0]0
+IfBA4?DBioGX14<;[BHo<93
+R1
+R2
+w1738308968
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1738308974.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
+R9
+!i113 1
+R5
+R6
 vMyXOR
 !s110 1738117948
 !i10b 1
@@ -95,7 +116,7 @@ r1
 R5
 R6
 vNAND_gate
-Z7 !s110 1738252553
+R0
 !i10b 1
 !s100 4e^Y[iL27V?mgUgimAR?U0
 IcUhR?R8RiIQkKj@Fff=Z<2
@@ -109,7 +130,7 @@ R3
 r1
 !s85 0
 31
-Z8 !s108 1738252553.000000
+R4
 !s107 E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v|
 !i113 1
@@ -117,7 +138,7 @@ R5
 R6
 n@n@a@n@d_gate
 vNOR_gate
-R7
+R0
 !i10b 1
 !s100 E=@A5Ki=B<6mafm=G>b?R2
 I@NEzEbnEM9F<693HU0`<P2
@@ -131,7 +152,7 @@ R3
 r1
 !s85 0
 31
-R8
+R4
 !s107 E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v|
 !i113 1
@@ -139,7 +160,7 @@ R5
 R6
 n@n@o@r_gate
 vNOT_gate
-R7
+R0
 !i10b 1
 !s100 P64cbM@DQOc1HidJ4Yz[G1
 I9;Y=aHd<j[GXom5;E5b[d2
@@ -183,13 +204,13 @@ R5
 R6
 n@o@r_@gate
 vXOR_gate
-R7
+R0
 !i10b 1
-!s100 4^DgWR@Z9YLZUX4PNlS9S0
-I6zP1TR_Y=WWlKoZg9A?Zz3
+!s100 2^CWla1I`];mXMYSX_BJ20
+I:FD?UkUkcR^CnHzEcO=TX0
 R1
 R2
-w1738251496
+w1738307244
 8E:/AAYUSH TECH/Projects/ModelSimProjects/XORGate.v
 FE:/AAYUSH TECH/Projects/ModelSimProjects/XORGate.v
 L0 1
@@ -197,7 +218,7 @@ R3
 r1
 !s85 0
 31
-R8
+R4
 !s107 E:/AAYUSH TECH/Projects/ModelSimProjects/XORGate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/XORGate.v|
 !i113 1

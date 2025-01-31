@@ -1,15 +1,14 @@
-module HA (
-	input wire A,
-	input wire B,
-	output wire S,
-	output wire C
-	);
+module half_adder (
+    input A,
+    input B,
+    output S,
+    output C
+);
+    XOR_gate xor1(
+        .A(A),
+        .B(B),
+        .Y(S)
+    );
 
-	XORGate XOR_gate(
-	.A(A1),
-	.B(B2),
-	.Y(S));
-
-	assign C = A & B;
-
+    assign C = A & B;
 endmodule

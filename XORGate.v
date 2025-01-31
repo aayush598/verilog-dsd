@@ -1,8 +1,8 @@
 module XOR_gate(
 	input wire A,
 	input wire B,
-	output wire Y);
+	output reg Y);
 
-	assign Y = (A&(~B)) | ((~A)&B);
+	assign Y = A^B;
 
 endmodule

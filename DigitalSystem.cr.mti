@@ -1,23 +1,23 @@
-{E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module NOR_gate
-
-Top level modules:
-	NOR_gate
-
-} {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v} {1 {vlog -work work -stats=none {E:\AAYUSH TECH\Projects\ModelSimProjects\ANDGate.v}
+{E:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/ANDGate.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module and_gate
 
 Top level modules:
 	and_gate
 
-} {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v}
+} {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/NORGate.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module NAND_gate
+-- Compiling module NOR_gate
 
 Top level modules:
-	NAND_gate
+	NOR_gate
+
+} {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_Gate
+
+Top level modules:
+	OR_Gate
 
 } {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/NOTGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/NOTGate.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -26,11 +26,11 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	NOT_gate
 
-} {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/ORGate.v}
+} {} {}} {E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v} {1 {vlog -work work -stats=none {E:/AAYUSH TECH/Projects/ModelSimProjects/NANDGate.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module OR_Gate
+-- Compiling module NAND_gate
 
 Top level modules:
-	OR_Gate
+	NAND_gate
 
 } {} {}}

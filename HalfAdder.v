@@ -9,6 +9,5 @@ module half_adder (
         .B(B),
         .Y(S)
     );
-
     assign C = A & B;
 endmodule

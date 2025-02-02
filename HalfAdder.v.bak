@@ -10,9 +10,5 @@ module half_adder (
         .Y(S)
     );
 
-    // Sum is the output of XOR gate
-    assign S = xor_output;
-
-    // Carry is the AND of A and B
     assign C = A & B;
 endmodule

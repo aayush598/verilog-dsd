@@ -29,6 +29,28 @@ Z4 !s108 1738307560.000000
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
+vFA
+!s110 1738313945
+!i10b 1
+!s100 K:oGGj^IFeDejEK[_GE_G3
+Id>^TS3Odk2AE:zCJkAika0
+R1
+R2
+w1738313731
+8E:/AAYUSH TECH/Projects/ModelSimProjects/FullAdder.v
+FE:/AAYUSH TECH/Projects/ModelSimProjects/FullAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1738313945.000000
+!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/FullAdder.v|
+!i113 1
+R5
+R6
+n@f@a
 vHA
 !s110 1738307529
 !i10b 1
@@ -45,8 +67,8 @@ r1
 !s85 0
 31
 !s108 1738307529.000000
-!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
-Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
+Z9 !s107 E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
 !i113 1
 R5
 R6
@@ -67,8 +89,8 @@ r1
 !s85 0
 31
 !s108 1738308974.000000
-!s107 E:/AAYUSH TECH/Projects/ModelSimProjects/HalfAdder.v|
 R9
+R10
 !i113 1
 R5
 R6

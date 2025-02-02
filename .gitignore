@@ -1,5 +1,13 @@
-# Ignore everything by default
-*
-
-# Allow only .v files
-!*.v
+*.mti
+*.mpf
+*.v.vak
+*.bak
+*.vlf
+*.wlf
+*mti
+*.mpf
+test1.*
+test2.*
+test3.*
+DigitalSystem.*
+work
